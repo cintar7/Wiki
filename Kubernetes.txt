@@ -1,0 +1,15 @@
+Kubernetes commands
+
+	Get pods : kubectl get pods -n <namespace>
+
+	Get sts : kubectl get sts -n <namespace>
+
+	Get deployments : kubectl get deployments -n <namespace>
+
+	Get svc : kubectl get svc -n <namespace>
+	
+	Get ConfigMap : kubectl get configmap -n <namespace>
+
+	Get Secrets : kubectl get secrets -n <namespace>
+
+
