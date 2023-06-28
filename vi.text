@@ -1,0 +1,16 @@
+This is a file that includes some usefull vi commands and their explanation.
+
+	How to exit:-->: q!
+
+	Save and exit :-->: wq
+
+	Delete a line : dd
+	
+	Delete a leter : x
+	
+	show numbers for lines : --> :/set number  /set nonumber
+
+	Undo last action : --> :u
+
+	Undo more {i} actions : ---> :u{i}
+
