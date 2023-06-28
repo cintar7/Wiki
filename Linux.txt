@@ -1,0 +1,1 @@
+This is simple text that includes some linux commands and their explanation.
